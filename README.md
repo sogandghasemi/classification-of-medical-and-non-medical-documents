@@ -1,4 +1,4 @@
-# 🏥 Medical vs Non-Medical Document Classifier
+#  Medical vs Non-Medical Document Classifier
 
 ## Introduction
 
